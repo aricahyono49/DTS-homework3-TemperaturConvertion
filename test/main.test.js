@@ -1,4 +1,4 @@
-import Convert from "../convert";
+import { Convert } from "../scripts/convert";
 
 describe('Convert Temp Celcius', () => {
   let convert;

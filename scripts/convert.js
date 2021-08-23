@@ -1,4 +1,4 @@
- class Convert {
+ export class Convert {
   constructor(temp, tempValue) {
     this.tempValue = tempValue;
     this.temp      = temp;
@@ -28,4 +28,3 @@
     return convert[this.temp];
   }
 }
-export default Convert;

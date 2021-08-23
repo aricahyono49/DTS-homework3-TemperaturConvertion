@@ -1,4 +1,5 @@
-import Convert  from "./convert.js";
+import { Convert } from "./convert.js";
+
 // const convertToReamur = require("./celcius");
 const EMPTY_STRING = "";
 // all event
