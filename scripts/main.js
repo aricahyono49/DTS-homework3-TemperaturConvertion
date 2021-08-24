@@ -1,6 +1,5 @@
 import { Convert } from "./convert.js";
 
-// const convertToReamur = require("./celcius");
 const EMPTY_STRING = "";
 // all event
 const EVENT_CHANGE = "change";
